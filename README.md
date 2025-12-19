@@ -99,6 +99,9 @@ Choose an IPTV player based on your device.
 4. Paste the M3U link or upload the file
 5. Load the channels
 
+**▶Android TV**
+* Most Android TV IPTV apps use the same interface and workflow as their Android mobile versions, so you can safely follow the Android instructions above.
+
 **▶iOS / iPad / Apple TV**
 
 * IPTV Player-Play M3U Playlist
